@@ -1,3 +1,3 @@
 # FinalProject
 
-The code for my final project can be found in FinalCode_ShoppingBasket Along with another ReadME file with a short explanation
+The code for my final project can be found as the .ino file in the FinalCode_ShoppingBasket folder along with another ReadME file with a short explanation. 
