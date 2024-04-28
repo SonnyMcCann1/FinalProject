@@ -1,5 +1,7 @@
 # FinalProject
 
+The code for my final project can be found in FinalCode_ShoppingBasket
+
 # Drivable Shopping Basket
 
 This repository contains the Arduino code for the Drivable Shopping Basket project. The basket can be controlled using Bluetooth inputs from a joystick, a string, or an integer value.
